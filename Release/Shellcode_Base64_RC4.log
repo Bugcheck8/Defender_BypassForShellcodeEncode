@@ -1,0 +1,9 @@
+﻿  base64.cpp
+  RC4.cpp
+  Shellcode_Base64_Rc4.cpp
+I:\code\ShellCode\Shellcode_Base64_RC4\Shellcode_Base64_Rc4.cpp(80,23): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 264 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Shellcode_Base64_RC4.vcxproj -> I:\code\ShellCode\ShellCodeEncode\Release\Shellcode_Base64_RC4_encode.exe
